@@ -1,5 +1,5 @@
 # React Slide-Creater App (using Firebase)
-#Project
+#Project Screenshots
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/3ccd33df-f294-48b8-9fd2-97450166b063)
 ![Screenshot (5)](https://github.com/user-attachments/assets/c97143d5-cacb-4537-85a1-f3b00e98c215)
